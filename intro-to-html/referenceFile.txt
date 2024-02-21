@@ -19,3 +19,11 @@ Nested layout Techniques
 1> open google drawing by searching in google
 2> copy any image and bring it in google drawing 
 3> Select shape and adjust border 
+
+grid  vs flexbox
+
+grid layout is rigid
+flex layout is dynamic
+
+Lesson 10: if you're confused with vertical vs horizontal layouts, it may help to see this updated diagram: 
+https://github.com/SuperSimpleDev/html-css-course-2022/blob/main/3-extra/vertical-horizontal-layouts.png
