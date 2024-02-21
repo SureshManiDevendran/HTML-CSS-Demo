@@ -1,0 +1,21 @@
+https://supersimple.dev/exercises/buttons
+https://supersimple.dev/exercises/text
+https://supersimple.dev/exercises/youtube
+https://www.w3schools.com/charsets/ref_html_entities_4.asp
+https://fonts.google.com/ (Google Font)
+
+#Details Regarding this Course and learning path
+
+https://github.com/SuperSimpleDev/html-css-course-2022/tree/main/1-exercise-solutions/lesson-01
+ref:- https://www.youtube.com/watch?v=G3e-cpL7ofc&t=8310s
+Channel Name :- SuperSimpleDev
+1> block Element  :- Eg :-<P> it take whole space
+2> Inline-block Element :<img> or <input> takes space as much needed
+3> Inline Element :- <span> or <strong> in between the text 
+
+
+Nested layout Techniques
+
+1> open google drawing by searching in google
+2> copy any image and bring it in google drawing 
+3> Select shape and adjust border 
